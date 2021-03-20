@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-## Supervised + Unsupervised learning using SciKitLearn libraries.
+## Supervised + Unsupervised learning using SciKitLearn.
 
 ### Project 1
 
