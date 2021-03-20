@@ -9,6 +9,8 @@ Supervised + Unsupervised learning using SciKitLearn libraries.
 2. Functions to print grids of images.
 3. Creating from scratch a bespoke image blurring function. 
 
+## Project 2
+
 **Basic natural language processing using altnet forum messages and SciKitLearn**
 
 1. Applying basic SKLearn libraries (Naive Bayes, Linear Regression, Logistic Regression) to text data for message category prediction. 
