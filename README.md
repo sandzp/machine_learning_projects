@@ -1,7 +1,8 @@
-# ML Projects
-Supervised + Unsupervised learning using SciKitLearn libraries.
+# Machine Learning Projects
 
-## Project 1
+## Supervised + Unsupervised learning using SciKitLearn libraries.
+
+### Project 1
 
 **Digit recognition using the MNIST dataset and SciKitLearn**
 
@@ -9,7 +10,7 @@ Supervised + Unsupervised learning using SciKitLearn libraries.
 2. Functions to print grids of images.
 3. Creating from scratch a bespoke image blurring function. 
 
-## Project 2
+### Project 2
 
 **Basic natural language processing using altnet forum messages and SciKitLearn**
 
